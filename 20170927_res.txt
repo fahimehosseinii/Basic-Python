@@ -1,0 +1,11 @@
+COUNTWORDS [countWords function specification]: Success
+COUNTWORDS2 [countWords test cases]: Success
+DIVISORS1 [divisors function specification]: Success
+DIVISORS2 [divisors test cases]: Success
+GREETANDCOUNT1 [greetAndCount function specification]: Success
+GREETANDCOUNT1 [greetAndCount test cases]: Fail
+NOTEBOOK EXISTS [Notebook with the correct name exists]: Success
+ODDLINES1 [oddLines function specification]: Success
+ODDLINES2 [oddLines test cases]: Fail
+ORGANIZEDCOUNTWORDS1 [organizedCountWords function specification]: Success
+ORGANIZEDCOUNTWORDS2 [organizedCountWords test cases]: Success
